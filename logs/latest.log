@@ -1,0 +1,57 @@
+[20may2020 00:02:36.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing has made the advancement [Suit Up]
+[20may2020 00:03:29.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing has made the advancement [Sweet Dreams]
+[20may2020 00:03:34.740] [Server thread/INFO] [morpheus/]: VodKasha is now sleeping. 1/3 - 2 miners (100%)
+[20may2020 00:03:34.740] [Server thread/INFO] [morpheus/]: Lithing is now sleeping. 2/3 - 2 miners (200%)
+[20may2020 00:04:40.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha has made the advancement [Suit Up]
+[20may2020 00:05:17.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Acquire Hardware]
+[20may2020 00:05:39.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Isn't It Iron Pick]
+[20may2020 00:06:27.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Monster Hunter]
+[20may2020 00:10:05.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Diamonds!]
+[20may2020 00:15:41.742] [Server thread/INFO] [morpheus/]: VodKasha is now sleeping. 1/3 - 3 miners (100%)
+[20may2020 00:18:42.841] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: VodKasha lost connection: Disconnected
+[20may2020 00:18:42.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha left the game
+[20may2020 00:19:42.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Suit Up]
+[20may2020 00:19:43.249] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@16715eea
+[20may2020 00:19:43.253] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: VodKasha[/25.98.10.251:49790] logged in with entity id 19136 at (710.788483403273, 64.0, -292.0039372685253)
+[20may2020 00:19:43.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha joined the game
+[20may2020 00:19:43.268] [Netty Server IO #19/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4c7aff3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[20may2020 00:19:43.268] [Netty Server IO #19/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@780cbca3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[20may2020 00:19:43.269] [Netty Server IO #19/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@5630aa2b (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[20may2020 00:19:43.270] [Netty Server IO #19/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@68704ab1 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[20may2020 00:19:43.291] [Server thread/INFO] [Treasure Bags/]: Sending 3 bag types to VodKasha
+[20may2020 00:20:26.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha has made the advancement [Isn't It Iron Pick]
+[20may2020 00:27:44.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Sweet Dreams]
+[20may2020 00:27:53.591] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: VodKasha lost connection: Disconnected
+[20may2020 00:27:53.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha left the game
+[20may2020 00:27:59.592] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lithing lost connection: Disconnected
+[20may2020 00:27:59.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing left the game
+[20may2020 00:28:26.447] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2a25e356
+[20may2020 00:28:26.451] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: VodKasha[/25.98.10.251:49827] logged in with entity id 21132 at (726.2380243611917, 49.0, -321.3014915675575)
+[20may2020 00:28:26.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha joined the game
+[20may2020 00:28:26.466] [Netty Server IO #23/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4c7aff3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[20may2020 00:28:26.466] [Netty Server IO #23/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@780cbca3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[20may2020 00:28:26.468] [Netty Server IO #23/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@5630aa2b (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[20may2020 00:28:26.468] [Netty Server IO #23/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@68704ab1 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[20may2020 00:28:26.488] [Server thread/INFO] [Treasure Bags/]: Sending 3 bag types to VodKasha
+[20may2020 00:28:28.396] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@176bca22
+[20may2020 00:28:28.400] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lithing[/25.100.157.55:51814] logged in with entity id 21145 at (716.8665775393405, 43.0, -340.99468008827057)
+[20may2020 00:28:28.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing joined the game
+[20may2020 00:28:28.418] [Netty Server IO #22/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4c7aff3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[20may2020 00:28:28.419] [Netty Server IO #22/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@780cbca3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[20may2020 00:28:28.420] [Netty Server IO #22/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@5630aa2b (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[20may2020 00:28:28.421] [Netty Server IO #22/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@68704ab1 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[20may2020 00:28:28.454] [Server thread/INFO] [Treasure Bags/]: Sending 3 bag types to Lithing
+[20may2020 00:37:17.791] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lithing lost connection: Disconnected
+[20may2020 00:37:17.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing left the game
+[20may2020 00:37:20.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [The Parrots and the Bats]
+[20may2020 00:39:12.741] [Server thread/INFO] [morpheus/]: VodKasha is now sleeping. 1/2 - 2 miners (100%)
+[20may2020 00:39:43.494] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: antonellini07 lost connection: Disconnected
+[20may2020 00:39:43.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 left the game
+[20may2020 00:41:55.841] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: VodKasha lost connection: Disconnected
+[20may2020 00:41:55.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha left the game
+[20may2020 00:46:36.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20may2020 00:46:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20may2020 00:46:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20may2020 00:46:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'world'/minecraft:overworld
+[20may2020 00:46:36.810] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20may2020 00:46:36.823] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved

@@ -1,0 +1,57 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-05-19 22:42:38 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/gear/pickaxe": {
+    "criteria": {
+      "has_item": "2020-05-19 22:42:42 -0300"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_pickaxe": {
+    "criteria": {
+      "blueprint": "2020-05-19 22:42:42 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/gear/axe": {
+    "criteria": {
+      "has_item": "2020-05-19 22:42:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2020-05-19 22:42:38 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/gear/katana": {
+    "criteria": {
+      "has_item": "2020-05-19 22:42:42 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/gear/shovel": {
+    "criteria": {
+      "has_item": "2020-05-19 22:42:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-05-19 22:42:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-05-19 22:42:24 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
