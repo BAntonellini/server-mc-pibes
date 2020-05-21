@@ -1,57 +1,426 @@
-[20may2020 00:02:36.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing has made the advancement [Suit Up]
-[20may2020 00:03:29.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing has made the advancement [Sweet Dreams]
-[20may2020 00:03:34.740] [Server thread/INFO] [morpheus/]: VodKasha is now sleeping. 1/3 - 2 miners (100%)
-[20may2020 00:03:34.740] [Server thread/INFO] [morpheus/]: Lithing is now sleeping. 2/3 - 2 miners (200%)
-[20may2020 00:04:40.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha has made the advancement [Suit Up]
-[20may2020 00:05:17.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Acquire Hardware]
-[20may2020 00:05:39.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Isn't It Iron Pick]
-[20may2020 00:06:27.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Monster Hunter]
-[20may2020 00:10:05.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Diamonds!]
-[20may2020 00:15:41.742] [Server thread/INFO] [morpheus/]: VodKasha is now sleeping. 1/3 - 3 miners (100%)
-[20may2020 00:18:42.841] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: VodKasha lost connection: Disconnected
-[20may2020 00:18:42.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha left the game
-[20may2020 00:19:42.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Suit Up]
-[20may2020 00:19:43.249] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@16715eea
-[20may2020 00:19:43.253] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: VodKasha[/25.98.10.251:49790] logged in with entity id 19136 at (710.788483403273, 64.0, -292.0039372685253)
-[20may2020 00:19:43.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha joined the game
-[20may2020 00:19:43.268] [Netty Server IO #19/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4c7aff3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[20may2020 00:19:43.268] [Netty Server IO #19/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@780cbca3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[20may2020 00:19:43.269] [Netty Server IO #19/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@5630aa2b (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[20may2020 00:19:43.270] [Netty Server IO #19/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@68704ab1 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[20may2020 00:19:43.291] [Server thread/INFO] [Treasure Bags/]: Sending 3 bag types to VodKasha
-[20may2020 00:20:26.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha has made the advancement [Isn't It Iron Pick]
-[20may2020 00:27:44.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [Sweet Dreams]
-[20may2020 00:27:53.591] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: VodKasha lost connection: Disconnected
-[20may2020 00:27:53.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha left the game
-[20may2020 00:27:59.592] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lithing lost connection: Disconnected
-[20may2020 00:27:59.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing left the game
-[20may2020 00:28:26.447] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2a25e356
-[20may2020 00:28:26.451] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: VodKasha[/25.98.10.251:49827] logged in with entity id 21132 at (726.2380243611917, 49.0, -321.3014915675575)
-[20may2020 00:28:26.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha joined the game
-[20may2020 00:28:26.466] [Netty Server IO #23/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4c7aff3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[20may2020 00:28:26.466] [Netty Server IO #23/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@780cbca3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[20may2020 00:28:26.468] [Netty Server IO #23/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@5630aa2b (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[20may2020 00:28:26.468] [Netty Server IO #23/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@68704ab1 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[20may2020 00:28:26.488] [Server thread/INFO] [Treasure Bags/]: Sending 3 bag types to VodKasha
-[20may2020 00:28:28.396] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@176bca22
-[20may2020 00:28:28.400] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lithing[/25.100.157.55:51814] logged in with entity id 21145 at (716.8665775393405, 43.0, -340.99468008827057)
-[20may2020 00:28:28.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing joined the game
-[20may2020 00:28:28.418] [Netty Server IO #22/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@4c7aff3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[20may2020 00:28:28.419] [Netty Server IO #22/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@780cbca3 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[20may2020 00:28:28.420] [Netty Server IO #22/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@5630aa2b (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[20may2020 00:28:28.421] [Netty Server IO #22/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@68704ab1 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[20may2020 00:28:28.454] [Server thread/INFO] [Treasure Bags/]: Sending 3 bag types to Lithing
-[20may2020 00:37:17.791] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lithing lost connection: Disconnected
-[20may2020 00:37:17.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lithing left the game
-[20may2020 00:37:20.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 has made the advancement [The Parrots and the Bats]
-[20may2020 00:39:12.741] [Server thread/INFO] [morpheus/]: VodKasha is now sleeping. 1/2 - 2 miners (100%)
-[20may2020 00:39:43.494] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: antonellini07 lost connection: Disconnected
-[20may2020 00:39:43.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: antonellini07 left the game
-[20may2020 00:41:55.841] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: VodKasha lost connection: Disconnected
-[20may2020 00:41:55.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VodKasha left the game
-[20may2020 00:46:36.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20may2020 00:46:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20may2020 00:46:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20may2020 00:46:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'world'/minecraft:overworld
-[20may2020 00:46:36.810] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20may2020 00:46:36.823] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21may2020 09:07:41.259] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 31.2.0, --fml.mcpVersion, 20200515.085601, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge]
+[21may2020 09:07:41.262] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.1.0+69+master.79f13f7 starting: java version 1.8.0_231 by Oracle Corporation
+[21may2020 09:07:42.224] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[21may2020 09:07:42.971] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[21may2020 09:07:49.239] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21may2020 09:07:49.240] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21may2020 09:07:49.241] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21may2020 09:07:49.242] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21may2020 09:07:49.243] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21may2020 09:07:50.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.15.2
+[21may2020 09:07:50.800] [Server thread/INFO] [PluginManager/]: Scanning classes for titanium
+[21may2020 09:07:50.810] [Server thread/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
+[21may2020 09:07:50.811] [Server thread/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[21may2020 09:07:51.003] [modloading-worker-8/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[21may2020 09:07:51.208] [modloading-worker-6/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 31.2.0, for MC 1.15.2 with MCP 20200515.085601
+[21may2020 09:07:51.245] [modloading-worker-13/INFO] [PluginManager/]: Scanning classes for titanium
+[21may2020 09:07:51.248] [modloading-worker-6/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v31.2.0 Initialized
+[21may2020 09:07:51.288] [modloading-worker-2/INFO] [net.silentchaos512.utils.config.ConfigSpecWrapper/]: Loading config file C:\Users\Bruno\Desktop\Minecraft Server\config\treasurebags-common.toml
+[21may2020 09:07:51.288] [modloading-worker-1/INFO] [net.silentchaos512.utils.config.ConfigSpecWrapper/]: Loading config file C:\Users\Bruno\Desktop\Minecraft Server\config\silentgear-client.toml
+[21may2020 09:07:51.305] [modloading-worker-13/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
+[21may2020 09:07:51.313] [modloading-worker-13/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[21may2020 09:07:51.315] [modloading-worker-13/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
+[21may2020 09:07:51.326] [modloading-worker-8/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk_bucket`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[21may2020 09:07:51.357] [modloading-worker-13/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[21may2020 09:07:51.358] [modloading-worker-1/INFO] [net.silentchaos512.utils.config.ConfigSpecWrapper/]: Loading config file C:\Users\Bruno\Desktop\Minecraft Server\config\silentgear-common.toml
+[21may2020 09:07:51.477] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:water_arrow
+[21may2020 09:07:51.575] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:box_turtle
+[21may2020 09:07:51.588] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:arrau_turtle
+[21may2020 09:07:51.592] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:starshell_turtle
+[21may2020 09:07:51.598] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:oak_fish_mount
+[21may2020 09:07:51.599] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:spruce_fish_mount
+[21may2020 09:07:51.602] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:birch_fish_mount
+[21may2020 09:07:51.603] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:jungle_fish_mount
+[21may2020 09:07:51.603] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:acacia_fish_mount
+[21may2020 09:07:51.604] [modloading-worker-11/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity aquaculture:dark_oak_fish_mount
+[21may2020 09:07:53.306] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Dispatching synchronous work after CONSTRUCT: 1 jobs
+[21may2020 09:07:53.314] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Synchronous work queue completed in 00:00:00.005
+[21may2020 09:07:54.680] [Server thread/INFO] [oresabovediamonds/]: Blocks registered.
+[21may2020 09:07:54.921] [Server thread/INFO] [net.minecraftforge.common.DimensionManager/DIMS]: Registered dimension planttech2:planttopia of type planttech2:planttopia and id 3
+[21may2020 09:07:54.983] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity silentgear:slingshot_projectile
+[21may2020 09:07:54.986] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity planttech2:techvillager
+[21may2020 09:07:54.990] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity planttech2:techghoul
+[21may2020 09:07:54.991] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity planttech2:techpenguin
+[21may2020 09:07:54.992] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity flame
+[21may2020 09:07:54.992] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity robit
+[21may2020 09:07:54.996] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity merchant
+[21may2020 09:07:55.164] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\Bruno\Desktop\Minecraft Server\config\aquaculture-common.toml is not correct. Correcting
+[21may2020 09:07:55.165] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spawn options.box_turtle.exclude was corrected from [] to []
+[21may2020 09:07:55.166] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spawn options.arrau_turtle.exclude was corrected from [] to []
+[21may2020 09:07:55.166] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spawn options.starshell_turtle.exclude was corrected from [] to []
+[21may2020 09:07:55.184] [modloading-worker-1/INFO] [Mekanism/]: Loaded 'Mekanism: Tools' module.
+[21may2020 09:07:55.191] [modloading-worker-1/INFO] [oresabovediamonds/]: Setup method registered.
+[21may2020 09:07:55.192] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: --- LootTable import: Start ---
+[21may2020 09:07:55.199] [modloading-worker-9/INFO] [Silent Gear/]: IAOETool: Rebuilt ore block set, contains 8 items
+[21may2020 09:07:55.201] [modloading-worker-15/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[21may2020 09:07:55.203] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 13: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:sand - Count: 1 - Group: null - Chance: 30 - Subchance: 100 - NBT: null
+[21may2020 09:07:55.204] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 14: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:dirt - Count: 1 - Group: null - Chance: 20 - Subchance: 100 - NBT: null
+[21may2020 09:07:55.204] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 15: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:stick - Count: 1 - Group: null - Chance: 20 - Subchance: 100 - NBT: null
+[21may2020 09:07:55.205] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 16: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:clay_ball - Count: 1 - Group: null - Chance: 15 - Subchance: 100 - NBT: null
+[21may2020 09:07:55.205] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 17: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:gravel - Count: 1 - Group: null - Chance: 13 - Subchance: 100 - NBT: null
+[21may2020 09:07:55.206] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 18: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:iron_nugget - Count: 1 - Group: NUGGET - Chance: 2 - Subchance: 75 - NBT: null
+[21may2020 09:07:55.206] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 19: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:gold_nugget - Count: 1 - Group: NUGGET - Chance: 2 - Subchance: 25 - NBT: null
+[21may2020 09:07:55.207] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 21: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_solid'
+[21may2020 09:07:55.208] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 22: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_reinforced'
+[21may2020 09:07:55.208] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 25: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:cod - Count: 1 - Group: FISH - Chance: 100 - Subchance: 60 - NBT: null
+[21may2020 09:07:55.209] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 26: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:salmon - Count: 1 - Group: FISH - Chance: 100 - Subchance: 25 - NBT: null
+[21may2020 09:07:55.209] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 27: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:pufferfish - Count: 1 - Group: FISH - Chance: 100 - Subchance: 13 - NBT: null
+[21may2020 09:07:55.210] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 28: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:tropical_fish - Count: 1 - Group: FISH - Chance: 100 - Subchance: 2 - NBT: null
+[21may2020 09:07:55.211] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 29: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:stick - Count: 1 - Group: JUNK - Chance: 30 - Subchance: 22 - NBT: null
+[21may2020 09:07:55.211] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 30: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:string - Count: 1 - Group: JUNK - Chance: 30 - Subchance: 13 - NBT: null
+[21may2020 09:07:55.212] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 31: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:leather - Count: 1 - Group: JUNK - Chance: 30 - Subchance: 13 - NBT: null
+[21may2020 09:07:55.214] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 32: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:rotten_flesh - Count: 1 - Group: JUNK - Chance: 30 - Subchance: 13 - NBT: null
+[21may2020 09:07:55.214] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 33: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:bone - Count: 1 - Group: JUNK - Chance: 30 - Subchance: 13 - NBT: null
+[21may2020 09:07:55.215] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 34: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:glass_bottle - Count: 1 - Group: JUNK - Chance: 30 - Subchance: 12 - NBT: null
+[21may2020 09:07:55.216] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 35: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:lily_pad - Count: 1 - Group: JUNK - Chance: 30 - Subchance: 7 - NBT: null
+[21may2020 09:07:55.216] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 36: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:vine - Count: 1 - Group: JUNK - Chance: 30 - Subchance: 7 - NBT: null
+[21may2020 09:07:55.216] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 37: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:enchanted_book - Count: 1 - Group: null - Chance: 1 - Subchance: 100 - NBT: null
+[21may2020 09:07:55.217] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 38: Added loot to table: Strainer: strainer_fisherman - Item: $BLANK$ - Count: 1 - Group: null - Chance: 69 - Subchance: 100 - NBT: null
+[21may2020 09:07:55.217] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 40: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_solid'
+[21may2020 09:07:55.218] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 41: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_reinforced'
+[21may2020 09:07:55.218] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: Result: Found 0 errors
+[21may2020 09:07:55.219] [modloading-worker-2/INFO] [mods.waterstrainer.WaterStrainer/]: --- LootTable import: End ---
+[21may2020 09:07:55.228] [modloading-worker-6/INFO] [Mekanism/]: Version 9.10.6 initializing...
+[21may2020 09:07:55.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.14/update.json
+[21may2020 09:07:55.287] [modloading-worker-6/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[21may2020 09:07:55.287] [modloading-worker-6/INFO] [Mekanism/]: Loading complete.
+[21may2020 09:07:55.288] [modloading-worker-6/INFO] [Mekanism/]: Mod loaded.
+[21may2020 09:07:55.289] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Dispatching synchronous work after COMMON_SETUP: 5 jobs
+[21may2020 09:07:55.293] [Server thread/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 0 ms
+[21may2020 09:07:55.300] [Server thread/INFO] [Silent Gear/]: Add wild flax to minecraft:plains
+[21may2020 09:07:55.302] [Server thread/INFO] [Silent Gear/]: Add wild flax to minecraft:mountains
+[21may2020 09:07:55.302] [Server thread/INFO] [Silent Gear/]: Add netherwood trees to minecraft:nether
+[21may2020 09:07:55.302] [Server thread/INFO] [Silent Gear/]: Add crimson iron ore to minecraft:nether
+[21may2020 09:07:55.302] [Server thread/INFO] [Silent Gear/]: Add wild flax to minecraft:mountain_edge
+[21may2020 09:07:55.303] [Server thread/INFO] [Silent Gear/]: Add wild flax to minecraft:wooded_mountains
+[21may2020 09:07:55.303] [Server thread/INFO] [Silent Gear/]: Add wild flax to planttech2:flowerbiome
+[21may2020 09:07:55.303] [Server thread/INFO] [Silent Gear/]: Add wild flax to planttech2:radiationwastelastbiome
+[21may2020 09:07:55.304] [Server thread/INFO] [Silent Gear/]: Add wild flax to minecraft:sunflower_plains
+[21may2020 09:07:55.304] [Server thread/INFO] [Silent Gear/]: Add wild flax to minecraft:gravelly_mountains
+[21may2020 09:07:55.304] [Server thread/INFO] [Silent Gear/]: Add wild flax to minecraft:modified_gravelly_mountains
+[21may2020 09:07:55.315] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Synchronous work queue completed in 00:00:00.025
+[21may2020 09:07:55.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21may2020 09:07:55.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21may2020 09:07:55.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
+[21may2020 09:07:55.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 25.100.108.66:25565
+[21may2020 09:07:55.391] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[21may2020 09:07:55.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 4.6.1+49 Target: null
+[21may2020 09:07:55.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mining_helmet] Starting version check at https://gitlab.com/modding-legacy/supporters/-/raw/master/miners-helmet.json
+[21may2020 09:07:55.475] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://gitlab.com/modding-legacy/supporters/-/raw/master/miners-helmet.json
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_231]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_231]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_231]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:1.8.0_231]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:189) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:206) ~[?:?]
+	at java.lang.Iterable.forEach(Unknown Source) [?:1.8.0_231]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:157) [?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://gitlab.com/modding-legacy/supporters/-/raw/master/miners-helmet.json
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_231]
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:173) ~[?:?]
+	... 3 more
+[21may2020 09:07:55.546] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Starting version check at https://raw.githubusercontent.com/SilentChaos512/Silent-Gear/1.15/update.json
+[21may2020 09:07:55.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Found status: OUTDATED Current: 1.6.4+90 Target: 1.7.0
+[21may2020 09:07:55.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.15.2/update.json
+[21may2020 09:07:55.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Found status: OUTDATED Current: 2.0.3+19 Target: 2.1.3
+[21may2020 09:07:55.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [planttech2] Starting version check at https://bitbucket.org/kaneka/planttech2/raw/1.14.x/update.json
+[21may2020 09:07:56.308] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21may2020 09:07:56.308] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21may2020 09:07:56.309] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21may2020 09:07:56.309] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21may2020 09:07:56.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [planttech2] Found status: BETA Current: 0.02.09 Target: null
+[21may2020 09:07:56.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21may2020 09:07:57.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 31.2.0 Target: null
+[21may2020 09:07:57.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [solargeneration] Starting version check at https://raw.githubusercontent.com/Edivad99/mod-version-controll/master/solargeneration_update.json
+[21may2020 09:07:57.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [solargeneration] Found status: UP_TO_DATE Current: 1.2.1 Target: null
+[21may2020 09:07:57.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at http://olafkeijsers.net/fastleafdecay-update.json
+[21may2020 09:08:03.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: BETA Current: v22 Target: null
+[21may2020 09:08:21.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21may2020 09:08:21.527] [Server thread/INFO] [net.minecraftforge.common.DimensionManager/DIMS]: Registered dimension planttech2:planttopia of type planttech2:planttopia and id 3
+[21may2020 09:08:29.393] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Falling-Tree-Mod-1.15.2.jar, Default, industrial-foregoing-1.15.2-2.3.0-6f57752.jar, titanium-1.15.2-2.4.0.jar, Cucumber-1.15.2-3.0.5.jar, SilentLib-1.15.2-4.6.1+49.jar, mining-helmet-1.15.2-1.0.8.jar, SilentGear-1.15.2-1.6.4+90.jar, planttech2-0.02.09+-+1.15.2.jar, Mekanism-1.15.2-9.10.6.419.jar, IronJetpacks-1.15.2-3.0.1.jar, chemlib-1.15.2-3.jar, extratags-1.1.jar, OresAboveDiamonds+1.15.2+v4.1.jar, libnonymous-1.15.2-1.1.1.5.jar, FarmingForBlockheads_1.15.2-6.1.2.jar, MekanismTools-1.15.2-9.10.6.419.jar, alib-1.15.2-1.jar, Morpheus-1.15.2-4.2.50.jar, solcarrot-1.15.2-1.9.5.jar, MekanismGenerators-1.15.2-9.10.6.419.jar, WaterStrainer-1.15.2-9.0.0.jar, forge-1.15.2-31.2.0-universal.jar, Aquaculture-1.15.2-2.0.14.jar, SolarGeneration-1.15.2-1.2.1.jar, FastLeafDecay-v22.jar, Treasure-Bags-1.15.2-1.2.1+21.jar
+[21may2020 09:08:29.873] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe solargeneration:solar_core/solar_core_resonant
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:nuggets/enderium'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:731) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:714) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:708) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1464) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:450) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:363) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:212) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:613) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[21may2020 09:08:29.876] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe solargeneration:solar_core/solar_core_signalum
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:nuggets/signalum'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:731) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:714) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:708) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1464) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:450) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:363) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:212) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:613) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[21may2020 09:08:29.882] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe solargeneration:solar_core/solar_core_hardened
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:nuggets/invar'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:731) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:714) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:708) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1464) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:450) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:363) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:212) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:613) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[21may2020 09:08:29.886] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe solargeneration:solar_core/solar_core_redstone
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:nuggets/electrum'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:731) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:714) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:708) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1464) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:450) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:363) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:212) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:613) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[21may2020 09:08:29.890] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe solargeneration:solar_core/solar_core_leadstone
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:nuggets/lead'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:731) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:714) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:708) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1464) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:450) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:363) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:212) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:613) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[21may2020 09:08:29.893] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe solargeneration:solar_core/solar_core_advanced
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:nuggets/lumium'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:731) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:714) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:708) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1464) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:450) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:363) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:212) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:613) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[21may2020 09:08:29.913] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe solargeneration:solar_core/solar_core_ultimate
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:nuggets/platinum'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:731) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:714) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:708) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1464) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:450) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:363) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:212) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:613) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[21may2020 09:08:29.919] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 32 recipes
+[21may2020 09:08:30.299] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 934 advancements
+[21may2020 09:08:30.332] [Server thread/INFO] [planttech2/]: Load crop configuration from data packs
+[21may2020 09:08:30.373] [Server thread/INFO] [Silent Gear/TraitManager]: Reloading trait files
+[21may2020 09:08:30.379] [Server thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
+[21may2020 09:08:30.380] [Server thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type_trait'
+[21may2020 09:08:30.382] [Server thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability_trait'
+[21may2020 09:08:30.385] [Server thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment_trait'
+[21may2020 09:08:30.388] [Server thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt_trait'
+[21may2020 09:08:30.390] [Server thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:potion_effect_trait'
+[21may2020 09:08:30.392] [Server thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier_trait'
+[21may2020 09:08:30.394] [Server thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute_trait'
+[21may2020 09:08:30.396] [Server thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:refractive'
+[21may2020 09:08:30.405] [Server thread/INFO] [Silent Gear/TraitManager]: Registered 27 traits
+[21may2020 09:08:30.423] [Server thread/INFO] [Silent Gear/PartManager]: Reloading part files
+[21may2020 09:08:30.425] [Server thread/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:highlight'
+[21may2020 09:08:30.425] [Server thread/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:grip'
+[21may2020 09:08:30.426] [Server thread/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:binding'
+[21may2020 09:08:30.426] [Server thread/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:tip'
+[21may2020 09:08:30.427] [Server thread/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:main'
+[21may2020 09:08:30.427] [Server thread/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:bowstring'
+[21may2020 09:08:30.428] [Server thread/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:misc_upgrade'
+[21may2020 09:08:30.428] [Server thread/INFO] [Silent Gear/PartManager]: Registered serializer 'silentgear:rod'
+[21may2020 09:08:30.455] [Server thread/INFO] [Silent Gear/PartManager]: Registered 57 parts
+[21may2020 09:08:38.405] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:the_nether
+[21may2020 09:08:38.407] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:overworld
+[21may2020 09:08:38.421] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:the_end
+[21may2020 09:08:38.425] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension planttech2:planttopia
+[21may2020 09:08:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21may2020 09:08:38.949] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[21may2020 09:08:38.949] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[21may2020 09:08:39.131] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 706 ms
+[21may2020 09:08:39.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.697s)! For help, type "help"
+[21may2020 09:08:39.474] [Server thread/INFO] [Silent Gear/TraitManager]: Gear traits loaded: 27
+[21may2020 09:08:39.475] [Server thread/INFO] [Silent Gear/PartManager]: Gear parts loaded: 57
+[21may2020 09:08:39.571] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (planttopia): All chunks are saved
+[21may2020 09:08:39.572] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21may2020 09:08:39.573] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21may2020 09:52:16.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21may2020 09:52:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21may2020 09:52:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21may2020 09:52:16.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'world'/minecraft:overworld
+[21may2020 09:52:16.654] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21may2020 09:52:16.668] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
